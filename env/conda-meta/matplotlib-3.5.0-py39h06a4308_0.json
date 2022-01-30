@@ -1,0 +1,39 @@
+{
+  "build": "py39h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.0,<3.5.1.0a0",
+    "pyqt",
+    "python >=3.9,<3.10.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "/home/donib/miniconda3/pkgs/matplotlib-3.5.0-py39h06a4308_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.5.0-py39h06a4308_0.conda",
+  "legacy_bz2_md5": "c3cef8cf552f8bf0dc5f9dddb79a1a7a",
+  "legacy_bz2_size": 27242,
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/home/donib/miniconda3/pkgs/matplotlib-3.5.0-py39h06a4308_0",
+    "type": 1
+  },
+  "md5": "84b7f90772548c8fe7e0cab7e8a1e6ad",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/home/donib/miniconda3/pkgs/matplotlib-3.5.0-py39h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib==3.5.0=py39h06a4308_0",
+  "sha256": "c2a4a6bebff053931464ade3f968d70d926ccd6de469a5d8c45a7fa4c7bb0706",
+  "size": 28340,
+  "subdir": "linux-64",
+  "timestamp": 1638290031107,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/matplotlib-3.5.0-py39h06a4308_0.conda",
+  "version": "3.5.0"
+}

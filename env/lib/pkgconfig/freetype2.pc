@@ -1,0 +1,14 @@
+prefix=/home/donib/Desktop/heart-disease-project/env
+exec_prefix=/home/donib/Desktop/heart-disease-project/env
+libdir=/home/donib/Desktop/heart-disease-project/env/lib
+includedir=/home/donib/Desktop/heart-disease-project/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.0.18
+Requires:
+Requires.private: zlib, libpng
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2
